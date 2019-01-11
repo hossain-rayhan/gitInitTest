@@ -33,4 +33,4 @@ printf( "The standard deviation is %lf\n", stddev ); return 0; // 15. return 0
         {
            total += a[ i ]; // 20. use += instead of =
         }
-return total; } // 21. return total instead of i
+return total; } // 21. return total instead of i // 
